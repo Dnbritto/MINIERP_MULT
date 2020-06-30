@@ -6,7 +6,7 @@ Esse projeto foi baseado em requisitos de atender usuarios, processo de fabricac
 
 ## Pré Requisitos para usar o BD
    
-  :werning: sql server 2017
+  :warning: sql server 2017
   - [Management studio] https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
   
 ## Configuraçao
