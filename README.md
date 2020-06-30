@@ -19,6 +19,8 @@ Veja esse artigo de como recuperar um backup [consultabd](https://docs.microsoft
 
 Realizando select na tabela cliente
 ![Testando querys](https://github.com/Dnbritto/MINIERP_MULT/blob/master/gifs/git%20teste.gif)
+
+
 Realizando select na tabela funcionario 
 ![query funcionarios](https://github.com/Dnbritto/MINIERP_MULT/blob/master/gifs/testando%20query.gif)
 
