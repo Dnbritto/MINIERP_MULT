@@ -11,8 +11,8 @@ Esse projeto foi baseado em requisitos de atender usuarios, processo de fabricac
   :warning: [Management studio](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
   
 ## Configuraçao
-Faça dowload do banco de dados que disponibilizei no repositorio  e execute no seu management studio 
-Veja esse artigo de como recuperar um backup 
+Faça dowload do banco de dados que disponibilizei no repositorio  e execute no seu management studio.
+Veja esse artigo de como recuperar um backup [consultabd](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 
 
 ## testando querys
