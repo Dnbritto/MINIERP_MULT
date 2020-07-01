@@ -15,7 +15,7 @@ Faça dowload do banco de dados que disponibilizei no repositorio  e execute no 
 Veja esse artigo de como recuperar um backup [consultabd](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 
 
-## Testando Banco :arrow_forward:
+## Testando o Banco :arrow_forward:
 
 :one: - Realizando select na tabela cliente
 ![Testando querys](https://github.com/Dnbritto/MINIERP_MULT/blob/master/gifs/git%20teste.gif)
@@ -32,3 +32,8 @@ Veja esse artigo de como recuperar um backup [consultabd](https://docs.microsoft
 :four: - Testando procedure plane_ordens
 ![procedure plane_ordens](https://github.com/Dnbritto/MINIERP_MULT/blob/master/gifs/Procedure%20plan_ordens.gif)
 
+:five: - testando trigger auditoria salarial 
+![testando trigger auditoria salarial](https://github.com/Dnbritto/MINIERP_MULT/blob/master/gifs/trigger%20auditorial.gif)
+
+:six: - Testando trigger bloqueia funcionario
+![testando trigger bloqueia usuario](https://github.com/Dnbritto/MINIERP_MULT/blob/master/gifs/trigger%20bloqueia%20funcionario.gif)
