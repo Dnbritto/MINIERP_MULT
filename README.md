@@ -1,5 +1,6 @@
 # MINIERP_MULT :floppy_disk:
->Status do projeto: Em andamento 
+>Status do projeto: Concluido :heavy_check_mark:
+
 
 ## :arrow_right: Descrição do Projeto
 Esse projeto foi baseado em requisitos de atender usuarios, processo de fabricacão, gerenciamento de estoque,processo de RH, controle financeiro,comercial e fiscal 
@@ -37,3 +38,9 @@ Veja esse artigo de como recuperar um backup [consultabd](https://docs.microsoft
 
 :six: - Testando trigger bloqueia funcionario
 ![testando trigger bloqueia usuario](https://github.com/Dnbritto/MINIERP_MULT/blob/master/gifs/trigger%20bloqueia%20funcionario.gif)
+
+
+## :stars: Contribuintes
+- [Luiz Santana](https://www.linkedin.com/in/luizfsantana/)
+- [Roger Sampaio](https://www.linkedin.com/in/roger-csampaio/)
+- [André Sampaio](https://www.linkedin.com/in/andre-rosa77/)
