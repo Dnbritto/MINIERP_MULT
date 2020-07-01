@@ -1,7 +1,7 @@
 # MINIERP_MULT :floppy_disk:
 >Status do projeto: Em andamento 
 
-## :arrow_right: Descrição do Porjeto
+## :arrow_right: Descrição do Projeto
 Esse projeto foi baseado em requisitos de atender usuarios, processo de fabricacão, gerenciamento de estoque,processo de RH, controle financeiro,comercial e fiscal 
 
 ## Pré Requisitos para usar o BD
